@@ -10,7 +10,7 @@ dependencies:
   - sra-tools=2.11.0
   - snakemake=7.18.2
   - multiqc=1.12
-  - bowtie2=2.4.5
+  - bowtie2=2.4
   - tbb=2020.2
   - samtools=1.15.1
   - subread=2.0.1
@@ -28,3 +28,6 @@ dependencies:
   - bioconductor-geoquery=2.62.0
   - xorg-libxrender
   - xorg-libxpm
+    
+
+
