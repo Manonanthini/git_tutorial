@@ -1,0 +1,6 @@
+~#ignore directories
+/intermediate_files
+/results
+/data/*
+#not in this directory
+!data/metadata.txt
